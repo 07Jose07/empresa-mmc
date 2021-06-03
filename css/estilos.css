@@ -1,0 +1,31 @@
+
+body{
+	background-image: linear-gradient(grey , white);
+	background-repeat: no-repeat;
+}
+
+.caja07 {
+	background-color: rgb(255, 255, 255);
+	border: #000000 solid;
+	color: rgb(255, 94, 0);
+	position: relative;
+	left: 250px;
+	width: 600px;
+	padding: 100px;
+	text-align: center;
+	top: 10px;
+}
+.negro{
+	color: black;
+	text-align: left;
+}
+.img{
+	left: 10px;
+}
+.hello{
+	position: relative;
+	left: 400px;
+}
+.rojo{
+	color: red;
+}

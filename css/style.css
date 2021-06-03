@@ -1,0 +1,42 @@
+html,body {
+    height: 100%;
+}
+body {
+    background-image: url(../chocolate1.jpg);
+    background-size: cover;
+    background-position: center ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form{
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+    text-align: center;
+}
+.form input.form-controle{
+    margin: 10px 0px;
+}
+.caja{
+    background-image: linear-gradient(rgb(173, 173, 173), rgb(43, 42, 42)) ;
+   height: 530px;
+   border: solid black 5px;
+}
+.caja2{
+    background-image: linear-gradient(rgb(173, 173, 173), rgb(43, 42, 42)) ;
+    height: 530px;
+    padding: 30px;
+    border: solid black 5px;
+    
+}
+a{
+    color: white;
+}
+.prima {
+    background-color: #0090FF;
+    padding: 5px;
+    border: 0px;
+    color: white;
+}
